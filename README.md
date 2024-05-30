@@ -1,6 +1,7 @@
 # Superstore_Sales_Profit_Report
 Superstore_Proofit_Store_Dashboard in Power BI
 This project showcases an interactive dashboard created using Power BI, designed to provide comprehensive insights into a superstore's sales data. The dashboard includes various visualizations and elements to help analyze and interpret the data effectively.
+
 Dashboard Features:
 1. Cards:
 - Total Profit: Displays the sum of all profits.
